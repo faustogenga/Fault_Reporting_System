@@ -1,0 +1,111 @@
+﻿<Window x:Class="Proyecto_Final.wpf.AdminMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModel="clr-namespace:Proyecto_Final.MVVM.ViewModel"
+        xmlns:view="clr-namespace:Proyecto_Final.MVVM.View"
+        xmlns:local="clr-namespace:Proyecto_Final"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Width="1400"
+        Height="800"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        Background="Transparent"
+        AllowsTransparency="True"
+        MouseDown="Window_MouseDown"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.DataContext>
+        <viewModel:AdminMainViewModel/>
+    </Window.DataContext>
+
+    <Border 
+        CornerRadius="20">
+        <Border.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="#1a5f7a" Offset="0.0"/>
+                <GradientStop Color="#086e7d" Offset="1"/>
+            </LinearGradientBrush>
+        </Border.Background>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Button Template="{DynamicResource CloseButtonStyle}" 
+                Name="CloseButton" Content="X"
+                Height="30"
+                Width="30"
+                HorizontalContentAlignment="Center"
+                VerticalContentAlignment="Center"
+                Opacity="0.5"
+                Click="CloseButton_Click"
+                Margin="1160,10,0,35"
+                Grid.Column="1"
+                Background="Transparent"
+                Foreground="White"
+                BorderBrush="White" HorizontalAlignment="Left">
+            </Button>
+
+
+            <TextBlock
+                Text="Aministración"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Left"
+                Foreground="White"
+                FontSize="22"
+                Margin="20,0,0,0"/>
+
+            <StackPanel Grid.Row="1">
+
+                <RadioButton
+                    Content="Inicio"
+                    Height="50"
+                    Foreground="White"
+                    FontSize="14"
+                    Style="{StaticResource MenuButtonStyle}"
+                    IsChecked="True"
+                    Command="{Binding HomeViewCommand}"/>
+
+            </StackPanel>
+
+            <RadioButton
+                Grid.Row="1"
+                Content="Cerrar Sesión"
+                Height="50"
+                Foreground="White"
+                FontSize="14"
+                Style="{StaticResource MenuButtonStyle}"
+                IsChecked="False"
+                Checked="CerrarSesion_Button_Click"
+                Command="{Binding HomeViewCommand}"
+                Margin="0,570,0,25"/>
+
+            <TextBox
+                Width="250"
+                Height="40"
+                VerticalContentAlignment="Center"
+                HorizontalAlignment="Left"
+                Margin="5"
+                Grid.Column="1"
+                Style="{StaticResource SearchBar}"/>
+
+
+            <ContentControl
+                Grid.Row="1"
+                Grid.Column="1"
+                Margin="10"
+                Content="{Binding CurrentView}"/>
+            
+        </Grid>
+    </Border>
+</Window>

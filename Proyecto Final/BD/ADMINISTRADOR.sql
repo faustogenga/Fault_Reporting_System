@@ -1,0 +1,26 @@
+USE [AveriasDB]
+GO
+
+/****** Object:  Table [dbo].[ADMINISTRADOR]    Script Date: 8/21/2022 2:47:40 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[ADMINISTRADOR](
+	[Cedula] [bigint] NOT NULL,
+	[Nombre] [varchar](50) NOT NULL,
+	[Correo] [varchar](50) NOT NULL,
+	[Password] [varchar](50) NOT NULL,
+ CONSTRAINT [PK_cedula] PRIMARY KEY CLUSTERED 
+(
+	[Cedula] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+INSERT INTO ADMINISTRADOR (Cedula, Nombre, Correo, Password) VALUES (12345, 'josue', 'josue@hotmail.com', 12345);
+
+
+

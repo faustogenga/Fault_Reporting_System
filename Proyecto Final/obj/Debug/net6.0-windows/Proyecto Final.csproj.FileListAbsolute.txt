@@ -1,0 +1,219 @@
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\bin\Debug\net6.0-windows\Proyecto Final.exe
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\bin\Debug\net6.0-windows\Proyecto Final.deps.json
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\bin\Debug\net6.0-windows\Proyecto Final.runtimeconfig.json
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\bin\Debug\net6.0-windows\Proyecto Final.dll
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\bin\Debug\net6.0-windows\Proyecto Final.pdb
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final.csproj.AssemblyReference.cache
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Theme\MenuButtonTheme.baml
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Theme\SearchBarTheme.baml
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\App.g.cs
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.cache
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.lref
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\App.baml
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final.g.resources
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfoInputs.cache
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfo.cs
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final.csproj.CoreCompileInputs.cache
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final.dll
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\refint\Proyecto Final.dll
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final.pdb
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\Proyecto Final.genruntimeconfig.cache
+Z:\Lab\Languages\C#\WPF_Practice_2\WPF_Practice_2\obj\Debug\net6.0-windows\ref\Proyecto Final.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.exe
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.deps.json
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.runtimeconfig.json
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.pdb
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.AssemblyReference.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Theme\MenuButtonTheme.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Theme\SearchBarTheme.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\App.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.lref
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\App.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.g.resources
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfoInputs.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfo.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.CoreCompileInputs.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\refint\Proyecto Final.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.pdb
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.genruntimeconfig.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\ref\Proyecto Final.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.exe
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.deps.json
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.runtimeconfig.json
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Theme\SearchBarTheme.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Login.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\wpf\MainWindow.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.lref
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\App.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Login.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\wpf\MainWindow.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.g.resources
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfo.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\refint\Proyecto Final.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.genruntimeconfig.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\ref\Proyecto Final.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\WPF\Login.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\WPF\MainWindow.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\WPF\Login.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\WPF\MainWindow.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\misAveriasView.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\misAveriasView.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\Proyecto Final\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\misAveriasView.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Register.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\misAveriasView.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\Damage_report_system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Register.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.exe
+C:\Users\Asus\Source\Repos\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.deps.json
+C:\Users\Asus\Source\Repos\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.runtimeconfig.json
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.dll
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.pdb
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\SearchBarTheme.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\misAveriasView.g.cs
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.g.cs
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Login.g.cs
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\MainWindow.g.cs
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Register.g.cs
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.cache
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.lref
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\App.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\misAveriasView.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Login.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\MainWindow.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Register.baml
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.g.resources
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfo.cs
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.dll
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\refint\Proyecto Final.dll
+C:\Users\Asus\source\repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.pdb
+C:\Users\Asus\Source\Repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.genruntimeconfig.cache
+C:\Users\Asus\Source\Repos\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\ref\Proyecto Final.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\CloseButtonTheme.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\LoginButtonsTheme.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\SearchBarTheme.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Login.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Register.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.lref
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.exe
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.deps.json
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.runtimeconfig.json
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\App.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Login.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Register.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.g.resources
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfo.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\refint\Proyecto Final.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.genruntimeconfig.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\ref\Proyecto Final.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.dll.config
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\DataGridStyle.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\AdminMainWindow.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\ClienteMainWindow.g.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\AdminMainWindow.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\ClienteMainWindow.baml
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #5\Diseño de aplicaciones de software\Proyecto Final\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.CopyComplete
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.AssemblyReference.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\CloseButtonTheme.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\DataGridStyle.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\LoginButtonsTheme.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\MenuButtonTheme.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Theme\SearchBarTheme.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\nuevaAveriaView.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\AdminMainWindow.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\ClienteMainWindow.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Login.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Register.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\App.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final_MarkupCompile.lref
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.exe
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.dll.config
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.deps.json
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.runtimeconfig.json
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\Proyecto Final.pdb
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\App.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\MVVM\View\HomeView.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\AdminMainWindow.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\ClienteMainWindow.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Login.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\wpf\Register.baml
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.g.resources
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfoInputs.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.AssemblyInfo.cs
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.CoreCompileInputs.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.csproj.CopyComplete
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\refint\Proyecto Final.dll
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.pdb
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\Proyecto Final.genruntimeconfig.cache
+Z:\Documents\Universidad\Cuatrimestre IV\Diseno de Aplicaciones de Software\fault-reporting-system\Proyecto Final\obj\Debug\net6.0-windows\ref\Proyecto Final.dll
