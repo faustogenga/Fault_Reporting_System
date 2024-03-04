@@ -1,4 +1,4 @@
-# fault-reporting-system Software
+# Fault Reporting System Software
 The system fulfills the function of managing fault reports, it is intended to be multipurpose, so it can be used both to manage faults of an ISP as well as technical support in any area. It consists of two parts, one section for clients to generate a report and another for administrators to review.
 
 ### Graphic interface
